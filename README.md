@@ -1,5 +1,7 @@
 # lambo-logger
 
+Source: https://github.com/mrborghini/lambo-logger
+
 ```bash
 npm install lambo-logger
 ```

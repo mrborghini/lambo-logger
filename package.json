@@ -12,6 +12,14 @@
     }
   },
   "license": "GPL-2.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrborghini/lambo-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrborghini/lambo-logger/issues"
+  },
+  "homepage": "https://github.com/mrborghini/lambo-logger#readme",
   "devDependencies": {
     "@types/bun": "latest"
   },
