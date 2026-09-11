@@ -52,7 +52,7 @@ export class Logger {
 	}
 
 	public debug(message: string) {
-		if (Bun.env["DEBUG"] === "true") {
+		if (process.env["DEBUG"] === "true") {
 			this.log("DEBUG", message);
 		}
 	}
