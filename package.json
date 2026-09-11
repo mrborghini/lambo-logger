@@ -1,6 +1,6 @@
 {
   "name": "lambo-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -24,7 +24,7 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "*"
   },
   "scripts": {
     "build": "tsc",
